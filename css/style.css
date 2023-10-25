@@ -1,0 +1,27 @@
+
+body{
+    background-color: #F8F8F8;
+
+}
+.container{
+    background-color: white;
+    border-radius: 1em;
+    margin: 3em auto;
+    padding: 3em 1.5em;
+    box-shadow: 0.5px 10px 15px rgba(0,0,0,.2);
+}
+.form-control{
+    border: none;
+    border-radius: 0px;
+    color: rgb(74,74,74);
+    border-bottom:1px solid #CCC ;
+}
+.form-control:focus{
+    box-shadow: none;
+}
+.form-label{
+    color: #9f9e9e;
+}
+a{
+    text-decoration: none;
+}
